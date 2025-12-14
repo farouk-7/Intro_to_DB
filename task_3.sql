@@ -1,6 +1,4 @@
--- task_3.sql
--- List all tables in the database passed as argument to mysql command
 
 
-USE $1;
+USE alx_book_store;
 SHOW TABLES;
